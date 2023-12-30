@@ -1,4 +1,4 @@
-# Encontrar e Substituir Palavra nos Nomes de Arquivos
+# Encontrar e Substituir: Edição de Nomes de Arquivos em PHP
 
 🔍 Este é um script em PHP desenvolvido por Leonardo Costa, um Desenvolvedor Web, que permite encontrar e substituir uma palavra nos nomes de arquivos em um diretório e suas subpastas. Tudo isso de forma fácil e rápida!
 
