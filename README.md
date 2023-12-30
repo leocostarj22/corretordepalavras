@@ -20,5 +20,5 @@ Sinta-se à vontade para contribuir ou enviar feedback! Estou sempre procurando 
 Ah, e não se esqueça de limpar a tela depois de ver todas as mudanças. O botão "Limpar Tela" está ali pra isso. 😉
 
 <div align="center">
-  <img src="https://link_para_sua_imagem_aqui" alt="Imagem Demonstrativa" width="400px">
+  <img src="https://www.pinterest.pt/pin/905856912537283055/" alt="Imagem Demonstrativa" width="400px">
 </div>
